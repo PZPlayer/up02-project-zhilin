@@ -1,8 +1,0 @@
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\bin\Debug\PavelZhilinProject.exe.config
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\bin\Debug\PavelZhilinProject.exe
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\bin\Debug\PavelZhilinProject.pdb
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\obj\Debug\PavelZhilinProject.csproj.AssemblyReference.cache
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\obj\Debug\PavelZhilinProject.csproj.CoreCompileInputs.cache
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\obj\Debug\PavelZhilinProject.exe
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\obj\Debug\PavelZhilinProject.pdb
-C:\Users\lzhil\Documents\GitHub\up02-project-zhilin\PavelZhilinProject\obj\Debug\PavelZhilinProject.exe.config
