@@ -1,0 +1,14 @@
+COLOR_MAIN_BG = "#FFFFFF"
+COLOR_SECONDARY_BG = "#D2F6E7"
+COLOR_ACCENT = "#70B2AF"
+COLOR_HIGHLIGHT = "#ff8080"
+
+FONT_FAMILY = "Calibri"
+FONT_SIZE_SMALL = 11
+FONT_SIZE_NORMAL = 16
+FONT_SIZE_HEADER = 22
+FONT_SIZE_TITLE = 32
+
+
+def font(size=FONT_SIZE_NORMAL, bold=False):
+    return (FONT_FAMILY, size, "bold" if bold else "normal")
